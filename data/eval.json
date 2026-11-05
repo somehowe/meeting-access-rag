@@ -1,0 +1,22 @@
+[
+  {"question": "Where does the host set the spoken language for live captions?", "relevant": ["caption-setup"]},
+  {"question": "The subtitles suddenly disappear while people are talking. How should the host respond?", "relevant": ["caption-outage"]},
+  {"question": "How much lead time do I need to book a sign language interpreter?", "relevant": ["interpreter-request"]},
+  {"question": "How can the incoming interpreter stay on screen when there is a handoff?", "relevant": ["interpreter-view"]},
+  {"question": "Where should I post the slide deck and what should I add to informative graphics?", "relevant": ["materials"]},
+  {"question": "Can I capture a signer's video if they declined permission?", "relevant": ["recording-consent"]},
+  {"question": "When do old replays and raw transcripts get deleted?", "relevant": ["archive"]},
+  {"question": "What goes in the replay checklist when a caption contains an incorrect name?", "relevant": ["caption-review"]},
+  {"question": "How many clips should I sample to measure word substitutions and deletions?", "relevant": ["quality-sampling"]},
+  {"question": "How should the facilitator handle questions submitted in chat and overlapping comments?", "relevant": ["turn-taking"]},
+  {"question": "How soon are anonymous attendee accessibility reports reviewed?", "relevant": ["feedback"]},
+  {"question": "Who should attend a rehearsal for a large event, and what should they test?", "relevant": ["event-rehearsal"]},
+  {"question": "How far ahead do I book the interpreter and share the accessible slide deck with attendees?", "relevant": ["interpreter-request", "materials"]},
+  {"question": "What permission is needed to record a signer, and how long does the archive keep the raw transcript?", "relevant": ["recording-consent", "archive"]},
+  {"question": "How do I check caption language before a meeting and recover if captions fail during it?", "relevant": ["caption-setup", "caption-outage"]},
+  {"question": "How do I restore subtitles when they vanish halfway through a call?", "relevant": ["caption-outage"]},
+  {"question": "Is the person doing simultaneous signing still visible when I share my presentation?", "relevant": ["interpreter-view"]},
+  {"question": "How do I adjust the derailleur on a bicycle?", "relevant": []},
+  {"question": "What soil is best for growing basil indoors?", "relevant": []},
+  {"question": "Does the event team reimburse train tickets?", "relevant": []}
+]

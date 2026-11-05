@@ -1,0 +1,62 @@
+[
+  {
+    "id": "caption-setup",
+    "title": "Live Caption Setup",
+    "text": "Before a meeting, the host turns on live captions and confirms the spoken language in the caption panel. Start a short sound check and read the first line back to confirm speech is appearing on screen. If the session has a specialist vocabulary, send a glossary to the captioner before the sound check."
+  },
+  {
+    "id": "caption-outage",
+    "title": "Live Caption Outage",
+    "text": "If captions stop during a meeting, the host pauses discussion and posts an update in the chat. The backup captioner joins using the link in the host checklist. If no captioner is available, the host switches to text chat or reschedules. The host checks with attendees who requested captions before resuming discussion."
+  },
+  {
+    "id": "interpreter-request",
+    "title": "Requesting a Sign Language Interpreter",
+    "text": "Use the event access form to book a sign language interpreter at least five business days before the meeting. Ask the attendee which signed language they use. Send the interpreter the agenda, slides, names and technical terms two business days before the event. The host shares a contact email so attendees can request changes privately."
+  },
+  {
+    "id": "interpreter-view",
+    "title": "Keeping the Interpreter Visible",
+    "text": "During an interpreted meeting, assign a co-host to spotlight the interpreter and test that the interpreter remains visible while slides are shared. The co-host should check the layout from the attendee view on a second device. Before an interpreter handoff, pause discussion and spotlight the incoming interpreter before taking the outgoing interpreter off screen."
+  },
+  {
+    "id": "materials",
+    "title": "Sharing Slides and Materials",
+    "text": "Post the accessible slide deck and agenda in the event invitation one business day before the meeting. Use descriptive links, meaningful slide titles and text alternatives for informative graphics. During a presentation, read out a key takeaway from each chart and give attendees time to open the slide deck on their own devices."
+  },
+  {
+    "id": "recording-consent",
+    "title": "Permission to Record Signers",
+    "text": "Before recording a signer or interpreter, ask for explicit permission and explain who will see the video and when it will expire. A declined request means the host pauses recording or excludes that person's camera feed. Store the record of permission separately from the video. The host announces any recording before it starts."
+  },
+  {
+    "id": "archive",
+    "title": "Recording Archive and Retention",
+    "text": "Share the captioned meeting replay with registered attendees through the restricted event folder. The archive deletes meeting video and raw transcripts after 30 days. The event owner may publish a separate, approved meeting summary to the shared wiki. Ask the event owner to verify access permissions before emailing the replay link."
+  },
+  {
+    "id": "caption-review",
+    "title": "Reviewing Captions Before Publishing",
+    "text": "A reviewer checks captions before a meeting replay is published. Verify speaker names, uncommon terms, sentence boundaries and alignment with the audio. Use a second reviewer for segments that include technical demonstrations. Report caption issues in the replay checklist by recording the time range, the current text and the proposed correction."
+  },
+  {
+    "id": "quality-sampling",
+    "title": "Sampling Caption Quality",
+    "text": "For a caption quality audit, choose three nonoverlapping one-minute clips from the beginning, middle and end of the session. Compare each caption transcript with a human reference to count word substitutions, insertions and deletions. Record timing problems separately in a delay column so reviewers can distinguish inaccurate words from late captions."
+  },
+  {
+    "id": "turn-taking",
+    "title": "Facilitating Questions and Turn-Taking",
+    "text": "Ask participants to raise a virtual hand or put questions in the chat. The facilitator reads chat questions aloud, says each new speaker's name and calls on one person at a time. Pause between speakers so attendees have time to read captions or follow interpretation. Ask speakers to repeat overlapping comments."
+  },
+  {
+    "id": "feedback",
+    "title": "Attendee Feedback and Follow-Up",
+    "text": "Put the access feedback link in the post-event email and keep the form anonymous. The event owner reviews accessibility reports within two business days. For recurring issues, record the affected workflow, what the attendee expected and a concrete follow-up action. Share aggregate feedback with the events team at the monthly planning meeting."
+  },
+  {
+    "id": "event-rehearsal",
+    "title": "Accessibility Rehearsal Checklist",
+    "text": "Schedule a rehearsal for large events with the host, co-host, captioner and interpreter. Have someone join with attendee permissions to check audio, captions, chat and the interpreter layout. Have the host practise pausing the event and switching to the backup plan. Save the rehearsal checklist with the event runbook."
+  }
+]
